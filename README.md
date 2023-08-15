@@ -40,3 +40,9 @@ Learnt the following topics
 - Built in dispose method
 - AppBars
 - for loops and maps
+
+![Screenshot_1692111479](https://github.com/ksha-dev/expense_app/assets/136138677/6d5fdef0-f890-44f1-ad27-46fb3422fff6)
+![Screenshot_1692111517](https://github.com/ksha-dev/expense_app/assets/136138677/e3ed3301-7d15-45ac-ab61-480beec08aa9)
+![Screenshot_1692111543](https://github.com/ksha-dev/expense_app/assets/136138677/968cd4b7-9d38-4138-b451-544ba5f0f46d)
+![Screenshot_1692111545](https://github.com/ksha-dev/expense_app/assets/136138677/4aaa4e94-a6ff-48a6-a49f-630a7bea1eb5)
+![Screenshot_1692111550](https://github.com/ksha-dev/expense_app/assets/136138677/566ded37-8840-40fc-beb3-53a3e164034c)
