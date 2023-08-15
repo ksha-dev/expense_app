@@ -1,6 +1,7 @@
-# expense_app
+# Expense Tracking Application
 
-A new Flutter project.
+A new Flutter project to learn about styling, dynamic data management and other
+important stuffs. This is a part of learning from the course [Flutter and Dart - The Complete Guide[2023 Edition]](https://www.udemy.com/share/1013o43@PQE7_UV9T0oyHMSAkdbauqxIApqzDkTxICdmtHj9LpckGGHLuTeaGmldhqJbwTdcZA==/)
 
 ## Getting Started
 
@@ -19,8 +20,23 @@ samples, guidance on mobile development, and a full API reference.
 
 Learnt the following topics
 
-Enums
-Models
-StatefulWidget Creations
-Listview builders
-Stacking rows and columns
+- Enums
+- Models
+- StatefulWidget Creations
+- Listview builders
+- Stacking rows and columns
+- Theming
+- Snackbars
+- Dissmissible Widgets
+- Modal sheets
+- Buttons
+- Date Pickers
+- Text Input Fields
+- Function Passing
+- Dropdown
+- Dialogs
+- Context Functions
+- Controllers
+- Built in dispose method
+- AppBars
+- for loops and maps
