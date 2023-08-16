@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// import 'package:flutter/services.dart';
 
 import 'widgets/expenses.dart';
 
@@ -10,6 +11,11 @@ var kDarkColorScheme = ColorScheme.fromSeed(
     seedColor: const Color.fromARGB(255, 5, 99, 125));
 
 void main(List<String> args) {
+  // WidgetsFlutterBinding.ensureInitialized();
+  // SystemChrome.setPreferredOrientations([
+  //   DeviceOrientation.portraitUp,
+  // ]).then(
+  //   (value) =>
   runApp(
     //root widget that contains all the other widgets
     MaterialApp(
@@ -81,5 +87,6 @@ void main(List<String> args) {
       debugShowCheckedModeBanner: false,
       home: const Expenses(),
     ),
+    // ),
   );
 }
